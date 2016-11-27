@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python
 import os
 from time import sleep
 import commands
