@@ -10,7 +10,7 @@ python RTTN.py stop  (for stop)
 
 REDIRECTOR OF TOR FOR ALL TRAFFIC NETWORK
 
-<<<<<<< HEAD
+< HEAD
 INSTALL:
 chmod 777 install.sh
 ./install.sh
@@ -22,4 +22,4 @@ tor
 Install requirements:
 sudo apt-get install tor
 sudo apt-get install privoxy
->>>>>>> 55c7defc67b40d773f92f7066a8e0b15f5751853
+>
