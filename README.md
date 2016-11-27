@@ -9,3 +9,11 @@ python RTTN.py start (for start)
 python RTTN.py stop  (for stop)
 
 REDIRECTOR OF TOR FOR ALL TRAFFIC NETWORK
+
+Requirements:
+privoxy
+tor
+
+Install requirements:
+sudo apt-get install tor
+sudo apt-get install privoxy
