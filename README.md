@@ -9,3 +9,7 @@ python RTTN.py start (for start)
 python RTTN.py stop  (for stop)
 
 REDIRECTOR OF TOR FOR ALL TRAFFIC NETWORK
+
+INSTALL:
+chmod 777 install.sh
+./install.sh
