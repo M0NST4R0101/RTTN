@@ -19,7 +19,10 @@ privoxy
 tor
 
 Install requirements:
+</br>
 chmod 777 install.sh
+</br>
 sudo apt-get install tor
+</br>
 sudo apt-get install privoxy
 </HEAD>
